@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftDelete", "SoftDelete\SoftDelete.csproj", "{29BFAA55-C206-4903-846B-B9A03033F983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29BFAA55-C206-4903-846B-B9A03033F983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BFAA55-C206-4903-846B-B9A03033F983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BFAA55-C206-4903-846B-B9A03033F983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BFAA55-C206-4903-846B-B9A03033F983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6A244E9-6FED-4831-BEDC-A22E5AA7485F}
+	EndGlobalSection
+EndGlobal
